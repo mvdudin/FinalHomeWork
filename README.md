@@ -9,3 +9,4 @@
 Из исходного массива строк, создать новый массив строк в котором будут все элементы исходного массива, длинна которых не более трех символов. 
 
 [Ссылка на задание в ЛК GeekBarins](https://gbcdn.mrgcdn.ru/uploads/asset/4312773/attachment/ed8c1f2c15da325114976e1c313ef5f8.png)
+[Ссылка на блок схему](https://github.com/mvdudin/FinalHomeWork/blob/main/BlockDiagram.png)
