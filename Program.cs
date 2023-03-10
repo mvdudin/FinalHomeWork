@@ -4,7 +4,11 @@ string[] ArrayFilter(string[] pArray)
 {
     int vCount = 0;
     string vTemp;
-    for (int i = 0; i < pArray.Length; i++)
+    if (pArray[0].Length < 4)
+    {
+      vCount++;
+    }
+    for (int i = 1; i < pArray.Length; i++)
     {
         if (pArray[i].Length < 4)
         {
